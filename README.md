@@ -142,3 +142,5 @@ Fungsi ini menampilkan menu utama dan meminta pengguna untuk memilih opsi. Menu 
      if __name__ == "__main__":
   menu()
 # hasil run coodingan
+![image](https://github.com/user-attachments/assets/058f5d09-d9a0-40c4-9299-ce9ef71ac8ed)
+
