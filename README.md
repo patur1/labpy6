@@ -1,6 +1,6 @@
 # labpy6
-#Praktikum6
-#penjelasan Praktikum6
+# Praktikum6
+# penjelasan Praktikum6
 Program ini dibuat untuk mengelola data mahasiswa dengan cara yang sederhana menggunakan Python. 
 Data mahasiswa disimpan dalam bentuk daftar (list), di mana setiap elemen adalah sebuah kamus (dictionary) yang menyimpan nama dan nilai mahasiswa.
 
@@ -15,4 +15,4 @@ Pengguna cukup memasukkan pilihan angka sesuai dengan menu yang tersedia. Progra
 Data yang dimasukkan hanya disimpan selama program berjalan, sehingga tidak akan tersimpan secara permanen.
 Program ini cocok untuk latihan sederhana dalam pengelolaan data menggunakan Python.
 
-#Flowchart
+# Flowchart
