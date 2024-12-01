@@ -144,5 +144,4 @@ Fungsi ini menampilkan menu utama dan meminta pengguna untuk memilih opsi. Menu 
 # hasil run coodingan
 ![image](https://github.com/user-attachments/assets/058f5d09-d9a0-40c4-9299-ce9ef71ac8ed)
 ![image](https://github.com/user-attachments/assets/5ce9234f-e793-4281-b4f1-a42c8309381c)
-
-
+![image](https://github.com/user-attachments/assets/6a2e5b53-6db4-4f64-9686-d7ccacbfaea0)
