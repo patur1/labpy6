@@ -16,3 +16,5 @@ Data yang dimasukkan hanya disimpan selama program berjalan, sehingga tidak akan
 Program ini cocok untuk latihan sederhana dalam pengelolaan data menggunakan Python.
 
 # Flowchart
+![image](https://github.com/user-attachments/assets/b2edac75-e6e6-48ec-85da-b981000d0702)
+
