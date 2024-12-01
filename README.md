@@ -125,5 +125,20 @@ Fungsi ini menghapus data siswa berdasarkan nama. Fungsi ini membuat list baru _
             print(f"Data {nama} berhasil diubah menjadi nilai {nilai_baru}.")
             return
     print(f"Data {nama} tidak ditemukan.")
-   
-
+Fungsi ini digunakan untuk mengubah nilai siswa berdasarkan nama. Jika nama ditemukan, nilai siswa akan diperbarui dengan nilai baru yang diberikan. Jika tidak ditemukan, akan tercetak pesan bahwa data tidak ditemukan.
+# 6. Fungsi menu
+           def menu():
+  """Menampilkan menu utama."""
+  while True:
+      print("\nMenu:")
+      print("1. Tambah Data")
+      print("2. Tampilkan Data")
+      print("3. Hapus Data")
+      print("4. Ubah Data")
+      print("5. Keluar")
+      pilihan = input("Pilih opsi (1-5): ")
+Fungsi ini menampilkan menu utama dan meminta pengguna untuk memilih opsi. Menu ini akan terus ditampilkan hingga pengguna memilih untuk keluar.
+# 7. Menjalankan Program
+     if __name__ == "__main__":
+  menu()
+# hasil run coodingan
